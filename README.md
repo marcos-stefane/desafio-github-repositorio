@@ -1,2 +1,5 @@
-# desafio-github-repositorio
+# Repositório do desafio-github
 desafio de projeto sobre Git/GitHub
+
+## links úteis
+[ markdownguide ] (https://www.markdownguide.org/getting-started/)
